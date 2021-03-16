@@ -1,14 +1,16 @@
-0 silly argv {
-0 silly argv   _: [ 'add' ],
-0 silly argv   scope: 'local-api',
-0 silly argv   dev: true,
-0 silly argv   D: true,
-0 silly argv   globs: [],
-0 silly argv   lernaVersion: '3.22.1',
-0 silly argv   '$0': 'C:\\Program Files\\nodejs\\node_modules\\lerna\\cli.js',
-0 silly argv   pkg: '@types/promises'
-0 silly argv }
-1 notice cli v3.22.1
-2 verbose rootPath c:\Stephen Grider Udemy\React and Typescript\jbook
-3 error Error: 404 Not Found - GET https://registry.npmjs.org/@types%2fpromises - Not found
-3 error     at C:\Users\JDF\AppData\Roaming\nvm\v12.18.0\node_modules\lerna\node_modules\@evocateur\npm-registry-fetch\check-response.js:104:15
+34 error Error: Command failed: git commit -m v1.0.0
+34 error
+34 error *** Please tell me who you are.
+34 error
+34 error Run
+34 error
+34 error   git config --global user.email "you@example.com"
+34 error   git config --global user.name "Your Name"
+34 error
+34 error to set your account's default identity.
+34 error Omit --global to set the identity only in this repository.
+34 error
+34 error fatal: unable to auto-detect email address (got 'JDF@DESKTOP-FV0OJR3.(none)')
+34 error
+34 error     at makeError (C:\Users\JDF\AppData\Roaming\nvm\v12.18.0\node_modules\lerna\node_modules\execa\index.js:174:9)
+34 error     at C:\Users\JDF\AppData\Roaming\nvm\v12.18.0\node_modules\lerna\node_modules\execa\index.js:278:16

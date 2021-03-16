@@ -20,10 +20,10 @@
     "@jsnote-jdf/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@types/node": "^14.14.34",
-    "esbuild": "0.8.26",
-    "typescript": "^4.2.3",
     "@jsnote-jdf/local-api": "^1.0.0",
-    "commander": "^7.1.0"
+    "@types/node": "^14.14.34",
+    "commander": "^7.1.0",
+    "esbuild": "0.8.26",
+    "typescript": "^4.2.3"
   }
 }
